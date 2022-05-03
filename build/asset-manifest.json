@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wpp-site-visit/static/css/main.1014b6a5.css",
+    "main.js": "/wpp-site-visit/static/js/main.162a3425.js",
+    "index.html": "/wpp-site-visit/index.html",
+    "main.1014b6a5.css.map": "/wpp-site-visit/static/css/main.1014b6a5.css.map",
+    "main.162a3425.js.map": "/wpp-site-visit/static/js/main.162a3425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1014b6a5.css",
+    "static/js/main.162a3425.js"
+  ]
+}
